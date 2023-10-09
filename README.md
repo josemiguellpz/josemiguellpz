@@ -15,25 +15,27 @@
 ## ⚡ Technologies
 - Programming in 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=javase) 
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=javase)
+  ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - Relational Database Management Systems as well as for NoSQL database systems like 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 - Frontend development using 
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) 
-  ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) 
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
   ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui) 
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) 
 - Backend development using 
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
   ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
 - Test enpoints using 
   ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 - Others
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
 ## ✨ print("working on this section")
 <!--
