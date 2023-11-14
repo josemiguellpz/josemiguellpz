@@ -8,9 +8,11 @@
 ## 🚀 About me
 - 🎓 I’m Bachelor of Computer Science Engineering (BUAP).
 - ⭐ I’m interested in **Web Applications, Data Science and IA** using Python.
-- 🌱 I’m currently learning **Backend Frameworks, Data Analytics**
+- 🌱 I’m currently learning **Backend and Frontend Frameworks, Data Analytics**
+<!--
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Web, App, DB.
+-->
 
 ## ⚡ Technologies
 - Programming in 
